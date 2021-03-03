@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+First Repository 
+This is my first entry. Just going with the flow.
